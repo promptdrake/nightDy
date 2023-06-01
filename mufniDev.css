@@ -1,12 +1,10 @@
 html {
 
-  background-image: url("https://wallpaperaccess.com/full/8084273.jpg");
-
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  background-color: transparent;
+  background-color: #1c1c1d
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2 {
@@ -156,12 +154,11 @@ div.TitledGreyBox___StyledDiv-sc-gvsoy-0.oLbNP.StartupContainer___StyledTitledGr
 }
 
 div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
-  background-image: url("https://wallpaperaccess.com/full/8084273.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  background-color: transparent;
+  background-color: #3a3a3a;
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
